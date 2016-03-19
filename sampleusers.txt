@@ -1,0 +1,6 @@
+sample users
+
+TEMPLATE: username - password
+jacquesbris29 - jacquesbris
+phandroid99 - droid
+isheep4s - sheep

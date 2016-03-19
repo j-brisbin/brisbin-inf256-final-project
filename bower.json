@@ -1,0 +1,21 @@
+{
+  "name": "brisbininf256finalproject",
+  "authors": [
+    "Joel Brisbin <jbrisbin23@gmail.com>"
+  ],
+  "description": "Final Project for INF 256 using a Forum.",
+  "main": "index.php",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "index.php",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#1.2.0",
+    "paper-elements": "PolymerElements/paper-elements#~1.0.7",
+    "iron-elements": "PolymerElements/iron-elements#~1.0.7",
+    "neon-elements": "PolymerElements/neon-elements#~1.0.0"
+  },
+  "resolutions": {
+    "polymer": "1.2.0"
+  }
+}
